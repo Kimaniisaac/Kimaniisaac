@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kimaniisaac
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on front-end projects
+- 👀 I’m interested in all things IT
+- 🌱 I’m currently learning information security
+- 💞️ I’m looking to collaborate on information security projects
 - 📫 How to reach me kimani.m.isaac@gmail.com
 
 <!---
