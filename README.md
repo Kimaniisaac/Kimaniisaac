@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kimaniisaac
 - 👀 I’m interested in all things IT
-- 🌱 I’m currently learning information security
-- 💞️ I’m looking to collaborate on information security projects
+- 🌱 I’m currently learning responsive web design
+- 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me kimani.m.isaac@gmail.com
 
 <!---
