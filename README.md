@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kimaniisaac
-- 👀 I’m interested in all things IT
-- 🌱 I’m currently learning responsive web design
-- 💞️ I’m looking to collaborate on beginner projects
+- 👀 Interested in large scale industrial tech solutions 
+- 🌱 I’m currently learning VCS and Agile
+- 💞️ I’m looking forward to being an active member of the tech community
 - 📫 How to reach me kimani.m.isaac@gmail.com
 
 <!---
