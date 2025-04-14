@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kimaniisaac
-- 👀 Interested in large scale industrial tech solutions 
-- 🌱 I’m currently learning VCS and Agile
-- 💞️ I’m looking forward to being an active member of the tech community
+- 👀 Interested in real world tech solutions 
+- 🌱 I’m currently learning more tech
+- 💞️ I’m looking forward to collaborating and contributing
 - 📫 How to reach me kimani.m.isaac@gmail.com
 
 <!---
